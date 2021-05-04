@@ -1,0 +1,24 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "description": "Simple use case for sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naddiya/sequelize.git"
+  },
+  "author": "Naddiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naddiya/sequelize/issues"
+  },
+  "homepage": "https://github.com/Naddiya/sequelize#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mariadb": "^2.5.3",
+    "sequelize": "^6.6.2"
+  }
+}
